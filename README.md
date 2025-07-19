@@ -23,7 +23,7 @@ DeepFake-Detection
 4. Requirements.txt - Python libraries needed for this project. 
 
 ## Project Set-up Guidelines
-To set up the project. All the steps and guidelines regarding that are listed [here](https://github.com/iamdhrutipatel/DeepFake-Detection/blob/main/Project-Setup.txt).
+To set up the project. All the steps and guidelines regarding that are listed [here](https://github.com/adhityakant/DeepFake_Detection/blob/main/Project-Setup.txt).
 
 ## Note
 1. In the root folder(DeepFake_Detection), create a new folder called "Uploaded_Files".
